@@ -1,0 +1,306 @@
+payment_id,order_id,payment_date,payment_method,payment_status,amount
+1,1,2025-01-10,"Credit Card",Paid,1270.00
+2,2,2025-01-12,Cash,Paid,850.00
+3,3,2025-02-05,"Debit Card",Pending,150.00
+4,4,2025-02-10,"Digital Wallet",Paid,330.00
+5,5,2025-03-01,"Bank Transfer",Refunded,300.00
+6,6,2025-11-06,"Digital Wallet",Paid,270.00
+7,7,2025-10-23,"Bank Transfer",Paid,240.00
+8,8,2025-08-29,"Bank Transfer",Paid,2110.00
+9,9,2025-06-15,"Bank Transfer",Paid,2788.00
+10,10,2025-04-15,"Digital Wallet",Paid,1235.00
+11,11,2025-06-09,"Credit Card",Paid,880.00
+12,12,2025-11-28,"Bank Transfer",Paid,2005.00
+13,13,2025-02-05,"Credit Card",Paid,519.00
+14,14,2025-06-26,"Bank Transfer",Paid,1065.00
+15,15,2025-12-06,Cash,Pending,4070.00
+16,16,2025-01-08,"Debit Card",Refunded,390.00
+17,17,2025-11-29,"Digital Wallet",Paid,1990.00
+18,18,2025-04-27,"Bank Transfer",Failed,35.00
+19,19,2025-01-15,"Bank Transfer",Paid,3794.00
+20,20,2025-03-29,"Credit Card",Paid,600.00
+21,21,2025-04-29,Cash,Paid,715.00
+22,22,2025-11-24,"Digital Wallet",Paid,1670.00
+23,23,2025-12-25,Cash,Paid,128.00
+24,24,2025-11-07,Cash,Failed,1153.00
+25,25,2025-06-08,"Credit Card",Paid,210.00
+26,26,2025-08-01,"Debit Card",Paid,165.00
+27,27,2025-06-01,Cash,Refunded,1018.00
+28,28,2025-10-02,"Digital Wallet",Paid,1145.00
+29,29,2025-11-28,"Credit Card",Paid,700.00
+30,30,2025-08-21,"Debit Card",Paid,285.00
+31,31,2025-05-01,"Debit Card",Paid,105.00
+32,32,2025-04-08,"Digital Wallet",Paid,1095.00
+33,33,2025-10-28,"Debit Card",Paid,810.00
+34,34,2025-03-31,"Credit Card",Paid,25.00
+35,35,2025-03-31,Cash,Paid,60.00
+36,36,2025-08-18,"Digital Wallet",Refunded,555.00
+37,37,2025-02-01,"Debit Card",Paid,1810.00
+38,38,2025-07-15,"Credit Card",Paid,1265.00
+39,39,2025-07-31,"Bank Transfer",Paid,1425.00
+40,40,2025-02-17,"Credit Card",Paid,30.00
+41,41,2025-12-10,"Credit Card",Paid,1050.00
+42,42,2025-04-25,"Digital Wallet",Paid,2070.00
+43,43,2025-11-08,"Credit Card",Pending,4110.00
+44,44,2025-02-05,"Bank Transfer",Paid,750.00
+45,45,2025-03-22,"Digital Wallet",Paid,455.00
+46,46,2025-05-20,"Digital Wallet",Paid,1365.00
+47,47,2025-01-24,Cash,Paid,5820.00
+48,48,2025-03-31,Cash,Paid,1425.00
+49,49,2025-10-22,"Debit Card",Paid,1640.00
+50,50,2025-05-05,Cash,Paid,2275.00
+51,51,2025-06-28,"Digital Wallet",Paid,670.00
+52,52,2025-04-01,"Bank Transfer",Refunded,1710.00
+53,53,2025-05-21,"Debit Card",Paid,900.00
+54,54,2025-01-30,Cash,Paid,1790.00
+55,55,2025-06-14,"Credit Card",Paid,1100.00
+56,56,2025-09-26,"Digital Wallet",Paid,1495.00
+57,57,2025-02-03,"Debit Card",Paid,880.00
+58,58,2025-06-20,Cash,Paid,2045.00
+59,59,2025-11-26,"Debit Card",Paid,625.00
+60,60,2025-04-03,Cash,Paid,490.00
+61,61,2025-12-05,"Digital Wallet",Paid,720.00
+62,62,2025-01-23,"Digital Wallet",Paid,310.00
+63,63,2025-04-10,"Debit Card",Paid,2780.00
+64,64,2025-07-10,Cash,Paid,450.00
+65,65,2025-05-20,Cash,Paid,252.00
+66,66,2025-09-15,Cash,Paid,810.00
+67,67,2025-03-16,"Credit Card",Paid,1060.00
+68,68,2025-08-18,"Credit Card",Paid,150.00
+69,69,2025-02-26,Cash,Refunded,2570.00
+70,70,2025-11-20,"Debit Card",Paid,330.00
+71,71,2025-04-06,"Digital Wallet",Pending,120.00
+72,72,2025-07-19,"Debit Card",Paid,360.00
+73,73,2025-02-04,"Debit Card",Paid,160.00
+74,74,2025-10-07,"Credit Card",Paid,568.00
+75,75,2025-01-19,"Digital Wallet",Paid,1654.00
+76,76,2025-05-10,Cash,Paid,800.00
+77,77,2025-08-14,"Bank Transfer",Paid,800.00
+78,78,2025-10-07,"Bank Transfer",Paid,1760.00
+79,79,2025-06-30,"Credit Card",Paid,2030.00
+80,80,2025-01-18,"Bank Transfer",Paid,105.00
+81,81,2025-12-14,"Debit Card",Paid,815.00
+82,82,2025-02-28,"Debit Card",Paid,180.00
+83,83,2025-11-10,Cash,Paid,1875.00
+84,84,2025-06-03,"Credit Card",Paid,270.00
+85,85,2025-07-04,"Bank Transfer",Paid,903.00
+86,86,2025-10-22,"Digital Wallet",Paid,370.00
+87,87,2025-03-08,"Credit Card",Paid,22.00
+88,88,2025-06-15,"Digital Wallet",Failed,520.00
+89,89,2025-11-11,"Digital Wallet",Paid,60.00
+90,90,2025-10-16,"Digital Wallet",Paid,135.00
+91,91,2025-10-20,"Debit Card",Paid,225.00
+92,92,2025-06-02,"Bank Transfer",Paid,110.00
+93,93,2025-04-15,"Credit Card",Paid,495.00
+94,94,2025-06-13,"Credit Card",Paid,1285.00
+95,95,2025-04-08,Cash,Refunded,265.00
+96,96,2025-05-04,Cash,Paid,5245.00
+97,97,2025-07-07,"Bank Transfer",Refunded,4230.00
+98,98,2025-11-16,"Debit Card",Pending,20.00
+99,99,2025-03-15,"Credit Card",Paid,3820.00
+100,100,2025-03-25,"Bank Transfer",Paid,815.00
+101,101,2025-12-11,Cash,Paid,1265.00
+102,102,2025-09-26,"Credit Card",Paid,177.00
+103,103,2025-07-30,"Credit Card",Paid,4650.00
+104,104,2025-10-07,"Debit Card",Paid,665.00
+105,105,2025-06-12,"Bank Transfer",Paid,793.00
+106,106,2025-01-22,"Debit Card",Paid,660.00
+107,107,2025-04-14,"Credit Card",Paid,1390.00
+108,108,2025-11-23,"Bank Transfer",Paid,1200.00
+109,109,2025-01-03,"Debit Card",Paid,340.00
+110,110,2025-02-15,"Credit Card",Pending,260.00
+111,111,2025-04-06,"Credit Card",Refunded,5975.00
+112,112,2025-04-09,"Debit Card",Paid,705.00
+113,113,2025-03-31,Cash,Paid,377.00
+114,114,2025-08-17,"Credit Card",Refunded,1380.00
+115,115,2025-08-27,Cash,Paid,1115.00
+116,116,2025-11-11,"Bank Transfer",Paid,265.00
+117,117,2025-10-03,"Bank Transfer",Pending,625.00
+118,118,2025-02-09,"Credit Card",Paid,3950.00
+119,119,2025-03-26,"Credit Card",Paid,1775.00
+120,120,2025-10-16,Cash,Paid,339.00
+121,121,2025-12-25,"Debit Card",Paid,600.00
+122,122,2025-11-25,"Credit Card",Failed,2360.00
+123,123,2025-08-26,"Bank Transfer",Pending,1221.00
+124,124,2025-04-16,"Digital Wallet",Paid,155.00
+125,125,2025-05-06,Cash,Failed,880.00
+126,126,2025-04-30,"Debit Card",Refunded,1435.00
+127,127,2025-11-17,"Bank Transfer",Pending,4565.00
+128,128,2025-05-04,"Digital Wallet",Paid,572.00
+129,129,2025-05-11,"Debit Card",Paid,1205.00
+130,130,2025-02-07,"Credit Card",Paid,195.00
+131,131,2025-05-05,"Bank Transfer",Pending,1190.00
+132,132,2025-06-07,"Debit Card",Paid,510.00
+133,133,2025-10-16,"Bank Transfer",Paid,6350.00
+134,134,2025-06-18,"Credit Card",Paid,686.00
+135,135,2025-03-13,"Credit Card",Failed,1665.00
+136,136,2025-01-05,Cash,Paid,4650.00
+137,137,2025-10-02,"Credit Card",Paid,80.00
+138,138,2025-05-04,"Credit Card",Paid,993.00
+139,139,2025-12-17,"Bank Transfer",Paid,580.00
+140,140,2025-11-23,Cash,Paid,645.00
+141,141,2025-04-19,"Credit Card",Pending,4465.00
+142,142,2025-02-09,"Digital Wallet",Paid,405.00
+143,143,2025-12-19,"Bank Transfer",Failed,120.00
+144,144,2025-11-06,"Bank Transfer",Refunded,3465.00
+145,145,2025-02-13,"Credit Card",Refunded,503.00
+146,146,2025-07-04,"Debit Card",Paid,3585.00
+147,147,2025-03-09,Cash,Paid,850.00
+148,148,2025-10-11,"Digital Wallet",Paid,3445.00
+149,149,2025-03-28,"Debit Card",Paid,860.00
+150,150,2025-05-09,"Debit Card",Paid,2180.00
+151,151,2025-11-30,"Debit Card",Paid,1465.00
+152,152,2025-05-30,"Digital Wallet",Failed,567.00
+153,153,2025-12-29,"Debit Card",Paid,1516.00
+154,154,2025-07-13,"Digital Wallet",Paid,1570.00
+155,155,2025-02-25,"Digital Wallet",Refunded,960.00
+156,156,2025-06-19,"Credit Card",Paid,1200.00
+157,157,2025-08-17,Cash,Paid,1490.00
+158,158,2025-06-28,"Bank Transfer",Paid,719.00
+159,159,2025-01-23,"Credit Card",Failed,3555.00
+160,160,2025-10-10,"Bank Transfer",Paid,820.00
+161,161,2025-08-19,"Debit Card",Paid,2020.00
+162,162,2025-02-28,"Bank Transfer",Paid,935.00
+163,163,2025-11-11,Cash,Paid,90.00
+164,164,2025-04-04,"Bank Transfer",Paid,540.00
+165,165,2025-11-22,"Debit Card",Paid,1120.00
+166,166,2025-07-03,"Credit Card",Paid,1263.00
+167,167,2025-04-23,"Debit Card",Paid,170.00
+168,168,2025-10-09,"Digital Wallet",Paid,85.00
+169,169,2025-08-14,"Debit Card",Paid,405.00
+170,170,2025-03-02,"Digital Wallet",Refunded,219.00
+171,171,2025-11-12,"Debit Card",Paid,172.00
+172,172,2025-06-15,"Credit Card",Refunded,1790.00
+173,173,2025-03-16,"Bank Transfer",Refunded,533.00
+174,174,2025-07-26,"Bank Transfer",Paid,1455.00
+175,175,2025-02-02,"Bank Transfer",Paid,525.00
+176,176,2025-01-24,"Debit Card",Paid,6600.00
+177,177,2025-05-09,Cash,Paid,495.00
+178,178,2025-04-20,"Digital Wallet",Paid,125.00
+179,179,2025-01-05,Cash,Pending,574.00
+180,180,2025-06-03,"Debit Card",Paid,575.00
+181,181,2025-07-30,"Debit Card",Paid,1900.00
+182,182,2025-10-11,"Bank Transfer",Paid,6920.00
+183,183,2025-05-03,"Digital Wallet",Paid,1980.00
+184,184,2025-08-30,Cash,Refunded,6000.00
+185,185,2025-01-31,"Digital Wallet",Paid,930.00
+186,186,2025-06-08,Cash,Paid,150.00
+187,187,2025-05-03,Cash,Paid,370.00
+188,188,2025-03-03,"Digital Wallet",Paid,3780.00
+189,189,2025-07-10,"Debit Card",Paid,1930.00
+190,190,2025-09-12,Cash,Paid,1765.00
+191,191,2025-01-23,Cash,Paid,2475.00
+192,192,2025-04-25,"Debit Card",Paid,185.00
+193,193,2025-04-02,"Debit Card",Paid,215.00
+194,194,2025-02-14,"Digital Wallet",Paid,7815.00
+195,195,2025-03-19,"Credit Card",Paid,2555.00
+196,196,2025-09-09,"Digital Wallet",Paid,260.00
+197,197,2025-08-23,"Bank Transfer",Failed,75.00
+198,198,2025-08-11,"Bank Transfer",Pending,825.00
+199,199,2025-06-12,"Credit Card",Paid,900.00
+200,200,2025-07-28,"Credit Card",Paid,655.00
+201,201,2025-04-21,Cash,Paid,700.00
+202,202,2025-03-31,"Credit Card",Paid,420.00
+203,203,2025-07-10,Cash,Pending,425.00
+204,204,2025-11-27,Cash,Paid,477.00
+205,205,2025-07-22,"Debit Card",Paid,880.00
+206,206,2025-05-24,"Debit Card",Paid,4240.00
+207,207,2025-02-01,Cash,Paid,710.00
+208,208,2025-09-03,"Debit Card",Paid,1130.00
+209,209,2025-10-27,Cash,Paid,675.00
+210,210,2025-07-01,Cash,Paid,270.00
+211,211,2025-10-18,"Bank Transfer",Paid,480.00
+212,212,2025-04-30,"Credit Card",Paid,4890.00
+213,213,2025-06-15,"Credit Card",Paid,50.00
+214,214,2025-02-07,"Debit Card",Paid,2105.00
+215,215,2025-04-25,Cash,Pending,1190.00
+216,216,2025-10-18,"Bank Transfer",Paid,1175.00
+217,217,2025-05-02,Cash,Paid,735.00
+218,218,2025-01-01,"Bank Transfer",Paid,970.00
+219,219,2025-03-25,Cash,Paid,18.00
+220,220,2025-02-07,"Digital Wallet",Paid,330.00
+221,221,2025-08-09,"Credit Card",Pending,375.00
+222,222,2025-12-05,Cash,Paid,4700.00
+223,223,2025-02-14,"Bank Transfer",Paid,2960.00
+224,224,2025-11-25,Cash,Paid,1840.00
+225,225,2025-02-13,"Digital Wallet",Pending,1330.00
+226,226,2025-10-21,Cash,Paid,2545.00
+227,227,2025-03-27,"Credit Card",Paid,3300.00
+228,228,2025-02-04,"Bank Transfer",Paid,1975.00
+229,229,2025-03-17,Cash,Paid,1400.00
+230,230,2025-07-30,"Bank Transfer",Paid,1540.00
+231,231,2025-12-20,"Debit Card",Paid,120.00
+232,232,2025-06-09,Cash,Paid,1320.00
+233,233,2025-07-28,"Digital Wallet",Failed,840.00
+234,234,2025-04-09,Cash,Paid,30.00
+235,235,2025-05-21,"Bank Transfer",Paid,1670.00
+236,236,2025-06-26,"Digital Wallet",Paid,167.00
+237,237,2025-11-28,Cash,Paid,410.00
+238,238,2025-11-04,"Bank Transfer",Paid,705.00
+239,239,2025-04-22,"Debit Card",Paid,422.00
+240,240,2025-06-02,"Debit Card",Pending,45.00
+241,241,2025-05-14,"Credit Card",Pending,295.00
+242,242,2025-06-01,"Bank Transfer",Paid,2980.00
+243,243,2025-03-29,"Digital Wallet",Pending,1975.00
+244,244,2025-12-02,"Debit Card",Paid,630.00
+245,245,2025-03-02,"Digital Wallet",Paid,400.00
+246,246,2025-09-14,"Debit Card",Paid,4020.00
+247,247,2025-09-07,"Credit Card",Paid,435.00
+248,248,2025-09-08,"Bank Transfer",Refunded,100.00
+249,249,2025-07-16,"Debit Card",Paid,410.00
+250,250,2025-01-10,"Debit Card",Pending,180.00
+251,251,2025-07-16,"Digital Wallet",Paid,665.00
+252,252,2025-06-25,Cash,Paid,920.00
+253,253,2025-03-05,"Digital Wallet",Paid,600.00
+254,254,2025-12-05,"Bank Transfer",Paid,795.00
+255,255,2025-08-31,Cash,Pending,440.00
+256,256,2025-11-15,"Debit Card",Paid,205.00
+257,257,2025-04-12,"Bank Transfer",Paid,940.00
+258,258,2025-10-08,Cash,Paid,375.00
+259,259,2025-03-18,"Credit Card",Paid,30.00
+260,260,2025-08-26,Cash,Paid,24.00
+261,261,2025-08-07,"Credit Card",Failed,300.00
+262,262,2025-11-15,Cash,Paid,540.00
+263,263,2025-05-20,"Bank Transfer",Paid,673.00
+264,264,2025-04-03,"Debit Card",Paid,2810.00
+265,265,2025-12-27,"Bank Transfer",Pending,550.00
+266,266,2025-09-04,"Credit Card",Paid,1429.00
+267,267,2025-05-04,"Bank Transfer",Paid,4135.00
+268,268,2025-02-15,Cash,Paid,1440.00
+269,269,2025-09-18,Cash,Paid,435.00
+270,270,2025-10-14,"Digital Wallet",Refunded,1100.00
+271,271,2025-01-24,"Bank Transfer",Paid,396.00
+272,272,2025-06-23,Cash,Paid,4530.00
+273,273,2025-10-11,"Debit Card",Paid,1400.00
+274,274,2025-11-08,"Credit Card",Pending,1085.00
+275,275,2025-12-26,"Debit Card",Paid,875.00
+276,276,2025-09-15,"Bank Transfer",Paid,2085.00
+277,277,2025-08-05,Cash,Paid,4800.00
+278,278,2025-05-17,"Debit Card",Refunded,870.00
+279,279,2025-07-03,"Credit Card",Paid,700.00
+280,280,2025-05-02,Cash,Paid,2890.00
+281,281,2025-04-14,"Bank Transfer",Paid,831.00
+282,282,2025-04-06,"Debit Card",Paid,215.00
+283,283,2025-03-24,"Digital Wallet",Paid,3200.00
+284,284,2025-10-21,"Digital Wallet",Paid,1006.00
+285,285,2025-02-17,"Credit Card",Paid,315.00
+286,286,2025-10-15,"Credit Card",Refunded,885.00
+287,287,2025-01-21,"Digital Wallet",Pending,1795.00
+288,288,2025-09-07,Cash,Paid,835.00
+289,289,2025-12-10,"Bank Transfer",Paid,220.00
+290,290,2025-01-13,"Bank Transfer",Paid,2750.00
+291,291,2025-08-10,Cash,Paid,210.00
+292,292,2025-10-27,"Debit Card",Paid,900.00
+293,293,2025-05-25,"Digital Wallet",Refunded,5820.00
+294,294,2025-06-02,"Digital Wallet",Pending,1510.00
+295,295,2025-04-18,"Credit Card",Refunded,570.00
+296,296,2025-10-09,Cash,Paid,280.00
+297,297,2025-06-19,Cash,Paid,330.00
+298,298,2025-08-19,"Credit Card",Paid,755.00
+299,299,2025-04-24,"Credit Card",Failed,918.00
+300,300,2025-05-24,"Digital Wallet",Paid,110.00
+301,301,2025-10-30,"Digital Wallet",Paid,630.00
+302,302,2025-07-07,"Digital Wallet",Paid,720.00
+303,303,2025-09-15,"Bank Transfer",Paid,796.00
+304,304,2025-09-05,Cash,Paid,140.00
+305,305,2025-01-22,Cash,Pending,157.00

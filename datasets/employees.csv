@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,store_id,job_title,hire_date
+1,Ahmed,Ali,1,"Sales Representative",2022-02-01
+2,Sara,Mohammed,1,"Store Manager",2022-01-20
+3,Omar,Khaled,2,"Sales Representative",2022-06-01
+4,Lina,Yousef,3,"Sales Representative",2023-03-10
+5,Fahad,Saleh,4,"Sales Representative",2023-04-20
+6,Noura,Faisal,4,"Store Manager",2023-04-15
+7,Majed,Othman,5,"Sales Representative",2023-07-01
+8,Reem,Abdullah,5,"Sales Representative",2023-07-10
+9,Hassan,Mansour,6,"Store Manager",2024-01-20
+10,Dana,Kareem,6,"Sales Representative",2024-02-01

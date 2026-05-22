@@ -1,0 +1,28 @@
+product_id,product_name,category_id,unit_price,cost_price,stock_quantity
+1,Laptop,1,1200.00,900.00,50
+2,Smartphone,1,800.00,600.00,100
+3,"Office Chair",2,150.00,100.00,40
+4,Desk,2,300.00,220.00,20
+5,T-Shirt,3,25.00,10.00,200
+6,"Running Shoes",4,120.00,80.00,75
+7,Backpack,5,60.00,35.00,90
+8,"Wireless Mouse",1,35.00,18.00,180
+9,"Mechanical Keyboard",1,95.00,55.00,120
+10,"Monitor 27 inch",1,280.00,190.00,65
+11,"Bluetooth Speaker",1,75.00,40.00,110
+12,"Coffee Table",2,180.00,120.00,35
+13,Bookshelf,2,220.00,150.00,25
+14,Jeans,3,55.00,25.00,160
+15,Jacket,3,130.00,70.00,80
+16,Football,4,45.00,20.00,140
+17,"Yoga Mat",4,40.00,15.00,95
+18,"Smart Watch",5,220.00,140.00,70
+19,Sunglasses,5,85.00,35.00,130
+20,"Air Fryer",6,160.00,95.00,60
+21,Blender,6,90.00,50.00,85
+22,"Face Cream",7,45.00,18.00,150
+23,Perfume,7,110.00,55.00,90
+24,"Business Book",8,30.00,12.00,200
+25,"Gaming Headset",9,140.00,75.00,75
+26,"Notebook Pack",10,18.00,7.00,300
+27,"Desk Organizer",10,32.00,12.00,180
