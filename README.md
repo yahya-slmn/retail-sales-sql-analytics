@@ -182,6 +182,7 @@ Aspiring Data Analyst passionate about:
 
 - LinkedIn: www.linkedin.com/in/yahya-sleiman-6b742a356
 - GitHub: https://github.com/yahya-slmn
+- Portfolio: https://yahya-datafolio.netlify.app/
 
 ---
 
